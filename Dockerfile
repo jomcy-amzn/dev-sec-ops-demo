@@ -5,3 +5,4 @@
  COPY . .
  RUN yarn install --production
  CMD ["node", "src/index.js"]
+ docker pull node:14.20.1-alpine3.15

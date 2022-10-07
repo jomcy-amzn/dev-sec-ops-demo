@@ -8,4 +8,7 @@ Run the following script /scripts/gcp_env_setup.sh on your workstation to get st
 
 [Google Cloud DevOps](https://cloud.google.com/devops)
 
+ Good Image : node:14.20.1-alpine3.15
+
+
 <END>
