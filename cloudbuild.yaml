@@ -65,5 +65,5 @@ steps:
 images: ['us-central1-docker.pkg.dev/$PROJECT_ID/$_CONTAINER_REPO_NAME/cd:$REVISION_ID']
 options:
   logging: CLOUD_LOGGING_ONLY
-  requestedVerifyOption: NOT_VERIFIED
+  requestedVerifyOption: VERIFIED #NOT_VERIFIED
 
